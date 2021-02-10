@@ -1,1 +1,1 @@
-web: gunicorn csod_integrator:app
+web: gunicorn RequestReader:app
