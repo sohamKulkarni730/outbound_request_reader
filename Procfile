@@ -1,0 +1,1 @@
+web: gunicorn csod_integrator:app
